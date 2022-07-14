@@ -1,0 +1,6 @@
+name: NoItemRemoval
+version: '${project.version}'
+main: xyz.korgen.noitemremoval.NoItemRemoval
+api-version: 1.19
+authors: [ Korgen ]
+description: Prevent dropping items or transfering to inventories.
